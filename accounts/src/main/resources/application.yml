@@ -26,9 +26,17 @@ management:
     web:
       exposure:
         include: "*"
+  health:
+    readiness-state:
+      enabled: true
+    liveness-state:
+      enabled: true
   endpoint:
     shutdown:
       access: unrestricted
+    health:
+      probes:
+        enabled: true
   info:
     env:
       enabled: true
@@ -45,12 +53,8 @@ eureka:
 info:
   app:
     name: "accounts"
-    description: "Bank Accounts Application"
+    description: "Eazy Bank Accounts Application"
     version: "1.0.0"
-
-
-build:
-  version: 1.0
 
 logging:
   level:
