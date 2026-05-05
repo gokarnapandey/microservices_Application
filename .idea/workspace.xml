@@ -5,8 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="267a4e38-8ad8-430d-b79b-4079f5ac9efa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/accounts-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/accounts-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/classes/com/eazybytes/accounts/AccountsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/target/classes/com/eazybytes/accounts/AccountsApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/jib-classpath-file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/jib-main-class-file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/36df365709520e5e98969ac03c9109c47d742f1dc010d0a1c07fd219b965bc05/ce313bbe1cefece5d6b0d39bf257b474ad20edad7e747c644b4cf298cbd75809" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/667023a6e659ad61a4fadcfcf7fa611e40da67f467a970cb0b3030e65f23cfdb/84329a95708fd8ca54d7ce9d8f6b99950c9d2cb8f303d3ec3c7701435bbd7c8b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/6685aa71893c3bfa7fcf7fa73d6cddc83451a351a84c48ffefccc1b44e779333/6387f9a8415d3c0c10f308d9a7299683dd1064c0f902c26a911fe364cd0764ef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/a11e48db3bf66f333b2d6f989edd4652af314576a00c4eafeb907486f9bfc15f/f43d84e03829048e4f3faba7b8a305c634bbeabfb851c848ef1d341083d1f4c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/cddf7e76560f590fef6898d48518886039857366e780c20e06d354720c3c15bf/bc3fbe4c12aae794cc69ae589d4e04f977d5fefcfcd393c1030dbc97ad6ea075" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/e596e754a6f4083e1eea454ec1acca8fceedb4a3aeced6a1cb0eec378de6301e/b179f69998237ae335b8da076544207d0bf6e20a26ff578d31b0af5392eecda2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/e76752e9723f4f3ecb5c22423048c6e6ef992a5d5def97ae65c079c763bb0e61/bf64c984ccdbeb82acbc95895424c06d600156982fe72c45be9b4c5967281a94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/e7edd95c1be9f4fdf86bbeb35af1ff629a64770db7360d11dfccafe4ad0b0124/4de293a2f9262f8f0ab965e6f5ebe168da34023a3b06491ed08b573f597c4e19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/f97a1d5c988f2996053e3d19c96fada340d6ec0de78ccad8dbf306d8cecfe1ae/d15b1a2f797fc982917a89187016c02a2a8f5fa87c85c40fe3367a9a89cc5e42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/layers/fd67a95f7bd1ca1a35c4403846c42a67e60d4043f1e8cf4f9ad75792d0ffcf85/302c5ffb66631f287db2f3f8b8ba543a57db61c8be78b75d355133411b41b450" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/109d1b56d76530b85a01ae6d9f263aaef7a75e5fb1948fbc8db5a722dd8999af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/27badcbf6d6fc79d03fe310d689d7f508a40c0a19eb3fe0c0f0ddcebf07d697e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/290a0d4a106a7e422be623f8fde627b4ff83dd8bca05f1178f8367ffd6971596" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/2b333e7df2ecc151edcac09b40aef1aea74504ac417fff957a4548ad388ce612" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/47cb3d9f5fb07cd2cc5cdc0b724c8ddf234fb88b69b8a3fc18b1c413791a5175" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/6ba9c76e9568aef6ae01bc20a28aba090a59d49dfdb869ca3820584af12031f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/86bf5f26ef8230ad0c317cfd52c96dff4e283a442c0ab52fb52666378c7c7318" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/9c91489b152c2476954230771e2deaaa513711fe7ffbe1d1992201f3524bbdeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/a416078aa415cfff7ff776b983b81051b3e1a8ea04ed24dbc63deb875fe1b522" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/c3cb7e7569e6a34f475955caa9d490f33983eccf67ef86398370529591712b3f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-cache/selectors/ea72ec75e51b3a905d8578cdc36b1bd77f2561758ad34fc5a61e2114918b96a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-image.digest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-image.id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/jib-image.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/surefire-reports/TEST-com.eazybytes.accounts.AccountsApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/target/surefire-reports/TEST-com.eazybytes.accounts.AccountsApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/target/surefire-reports/com.eazybytes.accounts.AccountsApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/target/surefire-reports/com.eazybytes.accounts.AccountsApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cards/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cards/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cards/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaserver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaserver/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatewayserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gatewayserver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatewayserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gatewayserver/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loans/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loans/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loans/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/loans/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,15 +73,100 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccountsApplication.executor": "Debug",
+    "Application.CardsApplication.executor": "Debug",
+    "Application.ConfigserverApplication.executor": "Debug",
+    "Application.EurekaserverApplication.executor": "Debug",
+    "Application.GatewayserverApplication.executor": "Debug",
+    "Application.LoansApplication.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\Desktop\~Knowledge\IMPL\Learning-Microservices\section_11 - Observability and Monitering of microservices\docker-compose\observability" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.GatewayserverApplication">
+    <configuration name="AccountsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eazybytes.accounts.AccountsApplication" />
+      <module name="accounts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.accounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eazybytes.cards.CardsApplication" />
+      <module name="cards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.cards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaserverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eazybytes.eurekaserver.EurekaserverApplication" />
+      <module name="eurekaserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayserverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eazybytes.gatewayserver.GatewayserverApplication" />
+      <module name="gatewayserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.gatewayserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoansApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eazybytes.loans.LoansApplication" />
+      <module name="loans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.loans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GatewayserverApplication" />
+        <item itemvalue="Application.LoansApplication" />
+        <item itemvalue="Application.CardsApplication" />
+        <item itemvalue="Application.AccountsApplication" />
+        <item itemvalue="Application.EurekaserverApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
