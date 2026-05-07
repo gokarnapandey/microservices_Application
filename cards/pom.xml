@@ -149,7 +149,7 @@
                 <version>3.5.1</version>
 				<configuration>
 					<to>
-						<image>gokarnapandey/${project.artifactId}:s11</image>
+						<image>gokarnapandey/${project.artifactId}:s12</image>
 					</to>
 				</configuration>
 			</plugin>
